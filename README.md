@@ -19,7 +19,7 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 
 ## Live Demo
 
-[Include a link to the live demo if available.]
+[Click Here](https://yassinedouhabi.github.io/QR-code-component/)
 
 ## Feedback and Support
 If you have any feedback or questions about this project, feel free to reach out to me on Instagram.
